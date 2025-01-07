@@ -1,54 +1,47 @@
-<div align="center">
-  
-  ![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/portfolio)
-  ![GitHub stars](https://img.shields.io/github/stars/codewithsadee/portfolio?style=social)
-  ![GitHub forks](https://img.shields.io/github/forks/codewithsadee/portfolio?style=social)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee_?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee_)
-  [![YouTube Video Views](https://img.shields.io/youtube/views/SAu7e09vXoQ?style=social)](https://youtu.be/SAu7e09vXoQ)
+# Welcome to Tamil271's GitHub Repository
 
-  <br />
-  <br />
 
-  <h2 align="center">Personal Portfolio Website</h2>
+Hi, I'm Tamil271! 👋
 
-  Fully responsive personal portfolio website, <br />Responsive for all devices, built using HTML, CSS, and JavaScript.
+I'm passionate about coding, open-source projects, and learning new technologies. This is my GitHub space where I share my personal projects, contributions, and experiments in software development.
 
-  <a href="https://codewithsadee.github.io/portfolio/"><strong>➥ Live Demo</strong></a>
+## 🚀 About Me
 
-</div>
+- 👨‍💻 I am currently working on various open-source projects and contributing to the community.
+- 🌱 I’m always learning and exploring new technologies and frameworks.
+- 💬 Feel free to reach out if you have any questions or if you'd like to collaborate on interesting projects.
+- 📚 My tech stack includes Python, JavaScript, React, Node.js, and more!
 
-<br />
+## 🌍 Connect with Me
 
-### Demo Screeshots
+- GitHub: [@tamil271](https://github.com/tamil271)
+- LinkedIn: [Tamilselvam M](https://www.linkedin.com/in/tamilselvam-m271/)
+- Personal Website: [www.tamil271.dev](https://www.tamil271.dev) (replace with actual link if available)
 
-![Portfolio Desktop Demo](./readme-images/desktop.png "Desktop Demo")
+## 📂 Projects
 
-### Prerequisites
+Here are some of the projects I’ve been working on:
 
-Before you begin, ensure you have met the following requirements:
+- **[Project ](https://github.com/tamil271/project-1)**:  
+  A short description of your project.
 
-* [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
+## 🛠 Technologies & Tools
 
-### Run Locally
+- **Languages**: JavaScript, C++, HTML, CSS
+- **Tools**: Git, Docker, VSCode, Postman
 
-To run **Portfolio** locally, run this command on your git bash:
+## 🤝 Contributing
 
-Linux and macOS:
+I welcome contributions from the open-source community! If you want to contribute, feel free to fork the repository and create a pull request.
 
-```bash
-sudo git clone https://github.com/codewithsadee/portfolio.git
-```
+For bugs, issues, or enhancements, please open an issue in the relevant repository.
 
-Windows:
+## ⚡ Fun Facts
 
-```bash
-git clone https://github.com/codewithsadee/portfolio.git
-```
+- I love experimenting with new APIs and libraries.
+- I enjoy solving algorithmic challenges and participating in hackathons.
+- I'm an advocate for clean code and best development practices.
 
-### Contact
+---
 
-If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
-
-### License
-
-This project is **free to use** and does not contains any license.
+### Thank you for visiting my profile! 🚀

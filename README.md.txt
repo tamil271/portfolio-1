@@ -17,8 +17,6 @@ I'm passionate about coding, open-source projects, and learning new technologies
 - GitHub: [@tamil271](https://github.com/tamil271)
 - LinkedIn: [Tamilselvam M](https://www.linkedin.com/in/tamilselvam-m271/)
 - Personal Website: [www.tamil271.dev](https://www.tamil271.dev) (replace with actual link if available)
-- GitHub image: [@@tamil271](https://avatars.githubusercontent.com/u/163303966?v=4)
-
 
 ## 📂 Projects
 
